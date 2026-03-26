@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tools
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI Agents
+.claude/
+.cursor/
+.windsurf/
+.codeium/
+.aider*
+.github/copilot/
+.copilot/
+.cody/
+.continue/
+.tabnine/
+
+# OS
+.DS_Store
+Thumbs.db
